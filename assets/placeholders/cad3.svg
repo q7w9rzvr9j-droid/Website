@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#5dd6c6" stop-opacity=".25"/><stop offset="1" stop-color="#7aa2ff" stop-opacity=".25"/></linearGradient></defs>
+<rect width="1200" height="700" fill="#0b0f14"/>
+<rect x="40" y="40" width="1120" height="620" rx="26" fill="url(#g)" stroke="#1f2a3a"/>
+<text x="80" y="160" fill="#e6edf3" font-family="Arial" font-size="64" font-weight="700">CAD Thumbnail 3</text>
+<text x="80" y="230" fill="#a6b2c0" font-family="Arial" font-size="34">Replace this with your render</text>
+</svg>
