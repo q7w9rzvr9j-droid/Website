@@ -1,0 +1,29 @@
+[
+  {
+    "slug": "clamp",
+    "title": "Clamp",
+  
+    "thumb": "images/cad/clamp_preview.png",
+    "tags": [],
+    "drawings": [
+      {
+        "label": "Drawing Set (PDF)",
+        "file": "docs/cad/Clamp.pdf"
+      }
+    ],
+    "images": [],
+    "notes": ""
+  },
+  {
+    "slug": "src",
+    "title": "SRC (Sample Return Capsule)",
+    
+    "thumb": "images/cad/src_preview.png",
+    "tags": [],
+    "drawings": [
+      { "label": "Drawing Set (PDF)", "file": "docs/cad/SRC.pdf" }
+    ],
+    "images": [],
+    "notes": ""
+  }
+]

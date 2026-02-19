@@ -1,0 +1,210 @@
+{
+  "projects": [
+    {
+      "src": "images/projects/Portable Standing Desk.jpeg" ,
+      "thumb": "images/_thumbs/projects/Portable Standing Desk.jpg",
+      "rotate": 90
+    },
+    {
+      "src": "images/projects/Portable Standing Desk Electronics.jpeg",
+      "thumb": "images/_thumbs/projects/Portable Standing Desk Electronics.jpg"
+    },
+    {
+      "src": "images/projects/portabledeskassembledcad.png",
+      "thumb": "images/_thumbs/projects/portabledeskassembledcad.png"
+    },
+    {
+      "src": "images/projects/Portable Desk Exploded CAD.png",
+      "thumb": "images/_thumbs/projects/Portable Desk Exploded CAD.png"
+    },
+    {
+      "src": "images/projects/Wiring Diagram.jpg",
+      "thumb": "images/_thumbs/projects/Wiring Diagram.jpg"
+    },
+{
+  "src": "videos/Rod Bender.MOV",
+  "thumb": "images/projects/Rod Bender.png",
+  "type": "video"
+},
+    {
+      "src": "images/projects/20220501_231745387_iOS.jpg",
+      "thumb": "images/_thumbs/projects/20220501_231745387_iOS.jpg"
+    },
+    {
+      "src": "images/projects/20220504_012939230_iOS.jpg",
+      "thumb": "images/_thumbs/projects/20220504_012939230_iOS.jpg"
+    },
+    {
+      "src": "images/projects/20220514_011717032_iOS.jpg",
+      "thumb": "images/_thumbs/projects/20220514_011717032_iOS.jpg"
+    },
+    {
+      "src": "images/projects/20220518_000035438_iOS.jpg",
+      "thumb": "images/_thumbs/projects/20220518_000035438_iOS.jpg"
+    },
+    {
+      "src": "images/projects/20220626_203404431_iOS.jpg",
+      "thumb": "images/_thumbs/projects/20220626_203404431_iOS.jpg"
+    },
+    {
+      "src": "images/projects/20220626_224741752_iOS.jpg",
+      "thumb": "images/_thumbs/projects/20220626_224741752_iOS.jpg"
+    },
+    {
+      "src": "images/projects/gym pic.jpeg",
+      "thumb": "images/_thumbs/projects/gym pic.jpg"
+    },
+    {
+      "src": "images/projects/gym pic inside.jpeg",
+      "thumb": "images/_thumbs/projects/gym pic inside.jpg"
+    }
+  ],
+  "boats": [
+    {
+      "src": "images/boats/20210326_160727527_iOS.jpg",
+      "thumb": "images/_thumbs/boats/20210326_160727527_iOS.jpg"
+    },
+    {
+      "src": "images/boats/20210326_173340384_iOS.jpg",
+      "thumb": "images/_thumbs/boats/20210326_173340384_iOS.jpg"
+    },
+    {
+      "src": "images/boats/20210529_172333432_iOS.jpg",
+      "thumb": "images/_thumbs/boats/20210529_172333432_iOS.jpg"
+    },
+    {
+      "src": "images/boats/20210529_172341638_iOS.jpg",
+      "thumb": "images/_thumbs/boats/20210529_172341638_iOS.jpg"
+    },
+    {
+      "src": "images/boats/20210608_191415767_iOS.jpg",
+      "thumb": "images/_thumbs/boats/20210608_191415767_iOS.jpg"
+    },
+    {
+      "src": "images/boats/20210608_191417836_iOS.jpg",
+      "thumb": "images/_thumbs/boats/20210608_191417836_iOS.jpg"
+    },
+    {
+      "src": "images/boats/20210608_191422073_iOS.jpg",
+      "thumb": "images/_thumbs/boats/20210608_191422073_iOS.jpg"
+    },
+    {
+      "src": "images/boats/20210608_191426610_iOS.jpg",
+      "thumb": "images/_thumbs/boats/20210608_191426610_iOS.jpg"
+    },
+    {
+      "src": "images/boats/boat seats.jpeg",
+      "thumb": "images/_thumbs/boats/boat seats.jpg"
+    },
+    {
+      "src": "images/boats/before1.jpeg",
+      "thumb": "images/_thumbs/boats/before1.jpg"
+    },
+    {
+      "src": "images/boats/20260215_181843034_iOS.jpg",
+      "thumb": "images/_thumbs/boats/20260215_181843034_iOS.jpg"
+    },
+    {
+      "src": "images/boats/20260215_182041157_iOS.jpg",
+      "thumb": "images/_thumbs/boats/20260215_182041157_iOS.jpg"
+    },
+    {
+      "src": "images/boats/wiringbefore.jpeg",
+      "thumb": "images/_thumbs/boats/wiringbefore.jpg"
+    },
+    {
+      "src": "images/boats/big boat wiring.jpeg",
+      "thumb": "images/_thumbs/boats/big boat wiring.jpg"
+    },
+    {
+      "src": "images/boats/big boat wiring 2.jpeg",
+      "thumb": "images/_thumbs/boats/big boat wiring 2.jpg"
+    },
+    {
+      "src": "images/boats/big boat wiring full.jpeg",
+      "thumb": "images/_thumbs/boats/big boat wiring full.jpg"
+    },
+    {
+      "src": "images/boats/carbs.jpeg",
+      "thumb": "images/_thumbs/boats/carbs.jpg"
+    },
+    {
+      "src": "images/boats/flooring.jpeg",
+      "thumb": "images/_thumbs/boats/flooring.jpg"
+    },
+    {
+      "src": "images/boats/fuel pump.jpeg",
+      "thumb": "images/_thumbs/boats/fuel pump.jpg"
+    },
+    {
+      "src": "images/boats/launching pic.jpeg",
+      "thumb": "images/_thumbs/boats/launching pic.jpg"
+    },
+    {
+      "src": "images/boats/trigger.jpeg",
+      "thumb": "images/_thumbs/boats/trigger.jpg"
+    }
+  ],
+  "fabrication": [
+    {
+      "src": "images/fabrication/20250508_161617447_iOS.jpg",
+      "thumb": "images/_thumbs/fabrication/20250508_161617447_iOS.jpg"
+    },
+    {
+      "src": "images/fabrication/20250606_180515995_iOS.jpg",
+      "thumb": "images/_thumbs/fabrication/20250606_180515995_iOS.jpg"
+    },
+    {
+      "src": "images/fabrication/20250606_183835438_iOS.jpg",
+      "thumb": "images/_thumbs/fabrication/20250606_183835438_iOS.jpg"
+    },
+    {
+      "src": "images/fabrication/20250613_165750305_iOS.jpg",
+      "thumb": "images/_thumbs/fabrication/20250613_165750305_iOS.jpg"
+    },
+    {
+      "src": "images/fabrication/20250618_203752051_iOS.jpg",
+      "thumb": "images/_thumbs/fabrication/20250618_203752051_iOS.jpg"
+    },
+    {
+      "src": "images/fabrication/20250618_205657856_iOS.jpg",
+      "thumb": "images/_thumbs/fabrication/20250618_205657856_iOS.jpg"
+    },
+    {
+      "src": "images/fabrication/20250619_123142758_iOS.jpg",
+      "thumb": "images/_thumbs/fabrication/20250619_123142758_iOS.jpg"
+    },
+    {
+      "src": "images/fabrication/20250625_142519818_iOS.jpg",
+      "thumb": "images/_thumbs/fabrication/20250625_142519818_iOS.jpg"
+    },
+    {
+      "src": "images/fabrication/20250625_171557695_iOS.jpg",
+      "thumb": "images/_thumbs/fabrication/20250625_171557695_iOS.jpg"
+    },
+    {
+      "src": "images/fabrication/20250707_191443871_iOS.jpg",
+      "thumb": "images/_thumbs/fabrication/20250707_191443871_iOS.jpg"
+    },
+    {
+      "src": "images/fabrication/20250719_161333131_iOS.jpg",
+      "thumb": "images/_thumbs/fabrication/20250719_161333131_iOS.jpg"
+    },
+    {
+      "src": "images/fabrication/20250722_134846827_iOS.jpg",
+      "thumb": "images/_thumbs/fabrication/20250722_134846827_iOS.jpg"
+    },
+    {
+      "src": "images/fabrication/20250722_135255068_iOS.jpg",
+      "thumb": "images/_thumbs/fabrication/20250722_135255068_iOS.jpg"
+    },
+    {
+      "src": "images/fabrication/20250808_195132344_iOS.jpg",
+      "thumb": "images/_thumbs/fabrication/20250808_195132344_iOS.jpg"
+    },
+    {
+      "src": "images/fabrication/20250812_192841801_iOS.jpg",
+      "thumb": "images/_thumbs/fabrication/20250812_192841801_iOS.jpg"
+    }
+  ]
+}
